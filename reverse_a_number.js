@@ -9,7 +9,7 @@ function reverse_a_number(n)
 
 	n = n + "";      
   
-/* split string object into an array of strings by separating the string into substrings and  reverse an array in place with reverce method  after that 
+/* split string objects into an array of strings by separating the string into substrings and  reverse an array in place with reverce method  after that 
 join all elements of an array into a string with join method
 */
   
